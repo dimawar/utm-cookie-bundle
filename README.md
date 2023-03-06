@@ -12,10 +12,21 @@ Features include:
 
 ### Through Composer:
 
+Add my repo to composer.json file
+
+``` php
+"repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/dimawar/tinkoff-acquiring-api-client/"
+    }
+  ],
+```
+
 Install the bundle:
 
 ```
-$ composer require medelse/utm-cookie-bundle
+$ composer require medelse/utm-cookie-bundle:dev-ver3
 ```
 
 ### Register the bundle in app/AppKernel.php (Symfony V3):
