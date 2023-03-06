@@ -5,7 +5,9 @@ The **MedelseUtmCookieBundle** is a Symfony Bundle to save utm parameters from u
 
 Features include:
 
-- Compatible Symfony version 3 & 4
+- Compatible Symfony version 4 & 5
+
+for Symfony version 3 - chekout to branch ver3 and read doc
 
 
 ## Installation
